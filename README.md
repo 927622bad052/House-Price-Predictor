@@ -36,6 +36,12 @@ pip install pandas scikit-learn
 # 3. Run the predictor
 python house_price_predictor.py
 
+📊 Sample Output
+Enter number of rooms: 3
+Enter area in sq ft: 1800
+Predicted House Price: $190,000
+
+
 ## 📁 Project Structure
 house-price-predictor/
 ├── house_price_predictor.py        # Main ML code
